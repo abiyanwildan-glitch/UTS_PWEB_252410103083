@@ -51,3 +51,12 @@ ALUR APLIKASI
 - Blade menampilkan daftar menu menggunakan @foreach.
 
 Screenshot WEB
+
+<img width="947" height="500" alt="Screenshot 2026-11-09 230516" src="https://github.com/user-attachments/assets/bcef44e0-b93b-48ab-889a-8efa258a4ba0" />
+<img width="938" height="498" alt="Screenshot 2026-11-09 230533" src="https://github.com/user-attachments/assets/906aaa79-0922-4479-99ee-64324daa2daa" />
+<img width="670" height="466" alt="Screenshot 2026-11-09 230613" src="https://github.com/user-attachments/assets/7f211a71-6ba3-41d3-9981-78dc22e9e2c8" />
+<img width="937" height="491" alt="Screenshot 2026-11-09 230638" src="https://github.com/user-attachments/assets/1bbaf304-6f54-427a-9455-e2bf52ea8cbd" />
+
+
+
+
